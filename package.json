@@ -2,7 +2,7 @@
   "name": "music-beat-detector",
   "version": "0.1.1",
   "main": "index.js",
-  "repository": "https://github.com/chrvadala/music-beat-detector.git",
+  "repository": "https://github.com/chris-doyle/music-beat-detector.git",
   "author": "chr.vadala",
   "license": "MIT",
   "dependencies": {
@@ -10,8 +10,5 @@
     "sliding-window-max": "^0.1.0",
     "through2": "^3.0.0"
   },
-  "devDependencies": {
-    "create-music-stream": "^1.0.0",
-    "speaker": "^0.4.1"
-  }
+  "devDependencies": {}
 }
